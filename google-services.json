@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247560523173",
+    "firebase_url": "https://driver-tracker-6f45e.firebaseio.com",
+    "project_id": "driver-tracker-6f45e",
+    "storage_bucket": "driver-tracker-6f45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247560523173:android:1c6eccfa9c25c9b906ac4c",
+        "android_client_info": {
+          "package_name": "com.example.drivertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247560523173-bcpir01k5a2jgofn4c1r1nsn75q0tlpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJnlkFFQhYEdEBZbnlgb4u_ga-I5XNws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247560523173-bcpir01k5a2jgofn4c1r1nsn75q0tlpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
